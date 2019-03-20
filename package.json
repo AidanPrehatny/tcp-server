@@ -1,0 +1,15 @@
+{
+  "name": "league_socket_query",
+  "version": "0.2.0",
+  "description": "Simple tcp server that emits messages to node web server for league data",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^11.11.4",
+    "ts-node": "^8.0.3"
+  }
+}
